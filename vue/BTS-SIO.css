@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.page-wrap {
+    flex: 1;
+}
+
+footer {
+    position: relative;
+    clear: both;
+    bottom: 0;
+    width: 100%;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+.bts-sio {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 75%;
+}
+
+p {
+    padding-left: 10px;
+    margin-top: 2%;
+}
+
+
+.firstDiv,
+.secondDiv {
+    margin-top: 2%;
+    border: 2px solid #000;
+}
+
+
+.firstDiv ul li,
+.secondDiv ul li {
+    margin-left: 10%;
+}
+
+.firstDiv h2,
+.secondDiv h2 {
+    text-align: center;
+}
+
+.firstDiv fieldset,
+.secondDiv fieldset {
+    border-bottom: 2px solid #000;
+}
+
+.firstDiv:hover,
+.secondDiv:hover {
+    cursor: pointer;
+}
