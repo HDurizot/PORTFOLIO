@@ -45,7 +45,7 @@
 <nav class="navbar">
     <!-- <a href="Durizot.php" class="nav-link">Héléna Durizot</a>-->
     <img src="..\includes\images\DH.png" alt="photo" style="width: 7%;">
-    <a href="accueil.php" class="nav-link">ACCUEIL</a>
+    <a href="index.php" class="nav-link">ACCUEIL</a>
     <a href="BTS-SIO.php" class="nav-link">BTS SIO</a>
     <a href="Projet-Professionnel.php" class="nav-link">PROJET PROFESSIONNEL</a>
     <a href="veille.php" class="nav-link">VEILLE</a>
